@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🙋‍♂️ Learn more about me at [my personal website](tatelarkin.netlify.app)!
 - 🔭 I'm currently learning **Typescript** and **PostgreSQL**
