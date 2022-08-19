@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 - 🙋‍♂️ Learn more about me at [my personal website](tatelarkin.netlify.app)!
-- 🔭 I'm currently learning **Typescript** and **PostgreSQL**
+- 🔭 I'm currently learning **Typescript** and **MySQL**
 - 📫 How to reach me: tatelarkin@icloud.com
 <!--
 **tate8/tate8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
