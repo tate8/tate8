@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🙋‍♂️ Learn more about me at (my personal website)[tatelarkin.netlify.app]!
+- 📫 How to reach me: tatelarkin@icloud.com
 <!--
 **tate8/tate8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
