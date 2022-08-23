@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🙋‍♂️ Learn more about me at [my personal website](tatelarkin.netlify.app)!
+- 🙋‍♂️ Learn more about me at [my personal website](https://tatelarkin.netlify.app)!
 - 🔭 I'm currently learning **Typescript** and **MySQL**
 - 📫 How to reach me: tatelarkin@icloud.com
 <!--
